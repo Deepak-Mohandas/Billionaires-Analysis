@@ -37,19 +37,19 @@ The success of a business or startup depends a lot on the business environment o
     
 ## Screenshots
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Billionaires-Analysis/blob/main/Running%20Screenshots/Screenshot%202022-12-15%20131645.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Billionaires-Analysis/blob/main/Result/Screenshot%202022-12-15%20131645.png)
 
 - This is the top 10 billionaires according to their NetWorth.
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Billionaires-Analysis/blob/main/Running%20Screenshots/Screenshot%202022-12-15%20131747.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Billionaires-Analysis/blob/main/Result/Screenshot%202022-12-15%20131747.png)
 
 - This is the top 5 domains with the most number of billionaires.
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Billionaires-Analysis/blob/main/Running%20Screenshots/Screenshot%202022-12-15%20131822.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Billionaires-Analysis/blob/main/Result/Screenshot%202022-12-15%20131822.png)
 
 - This is the top 5 industries with the most number of billionaires.
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Billionaires-Analysis/blob/main/Running%20Screenshots/Screenshot%202022-12-15%20131850.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Billionaires-Analysis/blob/main/Result/Screenshot%202022-12-15%20131850.png)
 
 - This is the top 5 countries with the most number of billionaires.
 
